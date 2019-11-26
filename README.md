@@ -17,4 +17,7 @@ HttpSessionRequestCache DefaultRedirectStrategy
 SecurityContextHolder
 ***
 7.自定义登录失败逻辑  
-实现与配置AuthenticationFailureHandler
+实现与配置AuthenticationFailureHandler  
+***
+8.添加图形验证过滤器
+OncePerRequestFilter 
